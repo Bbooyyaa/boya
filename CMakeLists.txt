@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 11)
 
 add_executable(cpp
         helloworld.cpp)
+add_executable(2-1 2-1.cpp)
