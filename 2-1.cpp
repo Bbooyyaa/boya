@@ -16,6 +16,6 @@ int main()
     else if (m>=60)
         cout<<"D\n";
     else
-        cout<<"F\n";
+        cout<<"F\n"<<endl;
     return 0;
 }
